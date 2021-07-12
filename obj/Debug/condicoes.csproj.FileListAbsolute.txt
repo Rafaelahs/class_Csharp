@@ -1,0 +1,10 @@
+D:\c#\condicoesform\condicoes\bin\Debug\condicoes.exe.config
+D:\c#\condicoesform\condicoes\bin\Debug\condicoes.exe
+D:\c#\condicoesform\condicoes\bin\Debug\condicoes.pdb
+D:\c#\condicoesform\condicoes\obj\Debug\condicoes.csproj.AssemblyReference.cache
+D:\c#\condicoesform\condicoes\obj\Debug\condicoes.Form1.resources
+D:\c#\condicoesform\condicoes\obj\Debug\condicoes.Properties.Resources.resources
+D:\c#\condicoesform\condicoes\obj\Debug\condicoes.csproj.GenerateResource.cache
+D:\c#\condicoesform\condicoes\obj\Debug\condicoes.csproj.CoreCompileInputs.cache
+D:\c#\condicoesform\condicoes\obj\Debug\condicoes.exe
+D:\c#\condicoesform\condicoes\obj\Debug\condicoes.pdb
